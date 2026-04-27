@@ -1,6 +1,6 @@
 # ClearLabel
 
-> AI-powered mobile app that scans product labels to flag harmful ingredients, active recalls, and personal dietary restrictions — with recommendations for safer alternatives.
+> AI-powered mobile app that scans product labels to flag harmful ingredients, active recalls, and personal dietary restrictions with recommendations for safer alternatives.
 
 ---
 
