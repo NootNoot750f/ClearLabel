@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# ClearLabel
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> AI-powered mobile app that scans product labels to flag harmful ingredients, active recalls, and personal dietary restrictions — with recommendations for safer alternatives.
 
-## Get started
+---
 
-1. Install dependencies
+## About
 
-   ```bash
-   npm install
-   ```
+ClearLabel is a mobile app designed to give shoppers more confidence at the store. Point your camera at any product label and ClearLabel will analyze the ingredients, cross-reference recent product recalls, and alert you to anything that conflicts with your personal dietary preferences or restrictions. It also suggests alternative products that better fit your needs.
 
-2. Start the app
+This project is in early development.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Features (Planned)
+- Scan product labels and ingredient lists via camera
+- AI-powered ingredient analysis and harm flagging
+- Real-time product recall alerts
+- Personalized restriction profiles (allergens, dietary preferences, etc.)
+- Alternative product recommendations
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Tech Stack
+- [React Native](https://reactnative.dev/) with TypeScript
+- Expo
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## Getting Started
 
+### Prerequisites
+- Node.js
+- Expo CLI (`npm install -g expo-cli`)
+
+### Installation
 ```bash
-npm run reset-project
+git clone https://github.com/NootNoot750f/ClearLabel.git
+cd ClearLabel
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## Status
 
-To learn more about developing your project with Expo, look at the following resources:
+Early development — core scanning and AI features are actively being built.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## Author
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Nick** — CS Student @ University of Illinois Chicago  
+[GitHub](https://github.com/NootNoot750f) · [LinkedIn](https://linkedin.com/in/your-link-here)
