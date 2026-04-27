@@ -52,4 +52,5 @@ Early development — core scanning and AI features are actively being built.
 ## Author
 
 **Nick** — CS Student @ University of Illinois Chicago  
-[GitHub](https://github.com/NootNoot750f) · [LinkedIn](https://linkedin.com/in/your-link-here)
+[GitHub](https://github.com/NootNoot750f) · [LinkedIn](https://linkedin.com/in/nickholasgherman)
+
